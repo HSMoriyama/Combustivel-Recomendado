@@ -20,4 +20,5 @@ if(valAlcool <= valGasMargem){
       Preço do Alcool a ${Math.round(nivelProxAlcool_Gasolina, 2)}% do preço da Gasolina
       Combustível ideal: Gasolina.
     `);
+    
 }
